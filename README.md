@@ -1,5 +1,6 @@
 # Foundation of Computer Science
 Final project for the Foundation of computer science exam, year 2021/2022.
+![foundationofcs](https://github.com/MattLanzUnimib/FoundationOfCS/assets/98222024/6a4513a9-7aff-47a6-835e-c0b7edf88789)
 
 # Aim
 
