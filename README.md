@@ -1,4 +1,4 @@
-# FoundationOfCS
+# Foundation of Computer Science
 Final project for the Foundation of computer science exam, year 2021/2022.
 
 # Aim
